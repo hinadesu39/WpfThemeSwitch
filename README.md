@@ -1,1 +1,1 @@
-# WpfThemeSwitch
+# Demo
