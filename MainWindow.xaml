@@ -14,7 +14,7 @@
                 <DropShadowEffect BlurRadius="8"
                                   ShadowDepth="0" />
             </Border.Effect>
-            <ToggleButton Style="{StaticResource themeSwith}"
+            <ToggleButton Style="{StaticResource themeSwitch}"
                           Cursor="Hand" />
         </Border>
     </Grid>
